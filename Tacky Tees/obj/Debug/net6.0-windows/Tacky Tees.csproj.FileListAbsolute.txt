@@ -1,0 +1,36 @@
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.exe
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.deps.json
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.runtimeconfig.json
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.pdb
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.csproj.AssemblyReference.cache
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky_Tees.Form1.resources
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.csproj.GenerateResource.cache
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.AssemblyInfoInputs.cache
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.AssemblyInfo.cs
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.csproj.CoreCompileInputs.cache
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\refint\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.pdb
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.genruntimeconfig.cache
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\ref\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\tackyteesLatest\Tacky Tees\obj\Debug\net6.0-windows\Tacky_Tees.Properties.Resources.resources
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.exe
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.deps.json
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.runtimeconfig.json
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\bin\Debug\net6.0-windows\Tacky Tees.pdb
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.csproj.AssemblyReference.cache
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky_Tees.Form1.resources
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky_Tees.Properties.Resources.resources
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.csproj.GenerateResource.cache
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.AssemblyInfoInputs.cache
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.AssemblyInfo.cs
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.csproj.CoreCompileInputs.cache
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\refint\Tacky Tees.dll
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.pdb
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\Tacky Tees.genruntimeconfig.cache
+C:\Users\fishh\OneDrive\Desktop\c#project\Tacky Tees\obj\Debug\net6.0-windows\ref\Tacky Tees.dll
